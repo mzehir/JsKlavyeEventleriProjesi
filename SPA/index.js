@@ -1,3 +1,7 @@
+document.addEventListener("DOMContentLoaded", function () {
+    alert('Menü seçimlerinde yada menüler arası geçişte mouse kullanımı yerine sadece yön tuşlarını ve enter ile esc tuşlarını kullanınız.');
+});
+
 // Kodlamada Kullanılacak Olan Değişkenler.//
 var bodyId = document.getElementById("bodyId");
 var homePagebtn = document.getElementById("1");
